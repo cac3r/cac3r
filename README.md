@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Jose Caceres (cac3r)
 
-<!--
-**cac3r/cac3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+23, from Spain. Self-taught, focused on offensive security — mostly Active
+Directory and web application testing. Currently working toward my OSCP+ and building out a set of labs, tooling, and writeups as I learn. Everything here
+is my own work, in my own environments.
 
-Here are some ideas to get you started:
+**Focus areas**
+- Active Directory attack paths — enumeration, exploitation, privilege escalation, lateral movement
+- Web application testing — OWASP Top 10, APIs
+- Building tooling to support my own testing workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Long-term goals: internal penetration testing and red teaming — social engineering, physical security, persistence.
+
+📍 Open to relocation · 🗣️ Spanish (native), English (professional)
